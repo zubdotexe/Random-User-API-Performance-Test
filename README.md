@@ -2,7 +2,7 @@
 ### Project Summary: In this project, the performance testing has been conducted on a random API through Load Testing and Stress Testing. In addition, the capacity value of the API has been measured through Stress Testing. 
 
 ## Prerequisites:  
-- jdk(LTS version)
+- jdk (LTS version)
 - JMeter
 
 ## How to run?
