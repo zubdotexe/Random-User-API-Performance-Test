@@ -1,4 +1,4 @@
-# Project Title: Automation of Performance Testing on Random User API using JMeter  
+# Project Title: Performance Testing Automation on Random User API Using JMeter  
 ### Project Summary: In this project, the performance testing has been conducted on a random API through Load Testing and Stress Testing. In addition, the capacity value of the API has been measured through Stress Testing. 
 
 ## Prerequisites:  
